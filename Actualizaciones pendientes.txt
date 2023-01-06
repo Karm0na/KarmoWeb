@@ -12,3 +12,5 @@
 -Añadir contacto en zona links
 -Añadir opcion idioma español-ingles
 -Arreglar background en movil
+-Añadir easter eggs
+-Añadir bumper stickers
