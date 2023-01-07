@@ -2,15 +2,15 @@
     -Texto con efectos css
 -Cambiar colores de los bordes
     -Verde azulado oscuro como color principal
--Poner apartado link como ventana W95
 -Añadir apartado de paginas recomendadas
     -Añadir link en apartado links
 -Revisar y corregir codigo (muy desordenado)
 -Añadir margenes
 -Buscar y cambiar letra
 -Empezar a colgar contenido
--Añadir contacto en zona links
 -Añadir opcion idioma español-ingles
 -Arreglar background en movil
 -Añadir easter eggs
 -Añadir bumper stickers
+-Arreglar inconsistencias de diseño.
+    -Posision Link en paginas secundarias
