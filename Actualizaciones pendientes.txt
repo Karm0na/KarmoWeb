@@ -1,7 +1,5 @@
 -Rediseñar banner
     -Texto con efectos css
--Cambiar colores de los bordes
-    -Verde azulado oscuro como color principal
 -Añadir apartado de paginas recomendadas
     -Añadir link en apartado links
 -Revisar y corregir codigo (muy desordenado)
