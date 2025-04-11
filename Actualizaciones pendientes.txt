@@ -1,0 +1,9 @@
+-Añadir apartado de paginas recomendadas
+    -Añadir link en apartado links
+-Revisar y corregir codigo (muy desordenado)
+-Añadir margenes
+-Empezar a colgar contenido
+-Añadir opcion idioma español-ingles
+-Arreglar background en movil
+-Añadir easter eggs
+-Añadir bumper stickers
